@@ -1,0 +1,9 @@
+spring: 
+  application: 
+    name: movimento-manual 
+  h2:
+    console:
+     settings:
+      trace: true 
+server: 
+  port: 6060 
